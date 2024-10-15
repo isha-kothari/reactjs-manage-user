@@ -1,0 +1,31 @@
+.App{
+    padding: 10px;
+}
+
+.firstName{
+    margin-right: 10px;
+}
+
+.lastName{
+    margin: 10px;
+}
+
+table{
+    border: 1.5px solid black;
+    margin-top: 20px;
+}
+
+th{
+    padding: 10px;
+    border: 2px solid pink;
+}
+
+td{
+    padding: 10px;
+    border: 1px solid pink;
+}
+
+.button{
+    color: mediumvioletred;
+    margin: 5px;
+}
